@@ -1,0 +1,2 @@
+# ignore wait script shell
+micro_api_wait/*.sh linguist-documentation
